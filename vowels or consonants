@@ -2,7 +2,7 @@
 int main()
 {
     char ch;
-    printf("Enter any alphabet: ");
+    printf("Enter any alphabet:  ");
     scanf("%c", &ch);
     switch(ch)
     {
